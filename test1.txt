@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 080B-ABEC
-
- Directory of C:\Users\dilpreet\Desktop\my prohetc
-
-2021-07-17  12:28 PM    <DIR>          .
-2021-07-17  12:28 PM    <DIR>          ..
-2021-07-17  12:28 PM                 0 test1.txt
-2021-07-17  12:28 PM               349 text1
-               2 File(s)            349 bytes
-               2 Dir(s)  162,396,983,296 bytes free
+change 1
